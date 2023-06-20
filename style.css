@@ -1,0 +1,21 @@
+body{
+  background-size: cover;
+  background-position: 50% 20%;
+  text-align: center;
+}
+.heading{
+  margin-top: 0px;
+  padding: 20px 0px;
+}
+.nota{
+  color: black;
+  font-size: 18px;
+}
+img{
+  width: 200px;
+}
+canvas{
+  margin-top: 150px;
+  border-radius: 20px;
+  border: ridge 4px red;
+}
